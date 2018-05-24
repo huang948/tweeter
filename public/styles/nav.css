@@ -5,6 +5,7 @@
   background-color: #00a087;
   padding-left: 2em;
   padding-right: 2em;
+  z-index: 1;
 }
 
 #nav-bar .logo {
@@ -19,4 +20,27 @@
   color: #e8fdff;
   font-size: 200%;
   line-height: 80px;
+}
+
+#compose {
+    width: 6em;
+    margin-top: 0.35em;
+    font-size: 20px;
+    float: right;
+    background-color: #e7fdff;
+    border-radius: 6px;
+    font-size: 20px;
+    border: 1px solid black;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-weight: bold;
+    color: #009f85;
+    text-align: center;
+}
+
+
+
+#compose:hover {
+    background: white;
+    color: black;
 }

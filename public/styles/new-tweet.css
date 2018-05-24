@@ -27,3 +27,9 @@
 .clearfix {
   clear: both;
 }
+
+.new-tweet form div {
+ float: left;
+ margin-left: 1.7em;
+ color: red;
+}
