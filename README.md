@@ -13,8 +13,8 @@ This repository is the starter code for the project: Students will fork and clon
 
 ## Screenshots
 
-!["screenshot of homepage"]("https://github.com")
-!["screenshot of tweet when hovered over it"]("https://github.com")
+!["screenshot of homepage"]("https://github.com/huang948/tweeter/blob/master/public/images/Screen%20Shot%202018-05-24%20at%205.39.31%20PM.png")
+!["screenshot of tweet when hovered over it"]("https://github.com/huang948/tweeter/blob/master/public/images/Screen%20Shot%202018-05-24%20at%205.40.00%20PM.png")
 
 ## Dependencies
 
